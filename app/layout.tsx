@@ -42,7 +42,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="bg-background">
-      <GoogleTagManager gtmId="GTM-M2CM8DDT" />
+      <GoogleTagManager gtmId="GTM-5WCTZD5V" />
 
       <body className="antialiased">
         <StoreProvider>{children}</StoreProvider>
